@@ -1,0 +1,22 @@
+{
+  "name": "mobile_banner",
+  "version": "1.0.0",
+  "description": "banner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happy-Everyday/mobile_banner.git"
+  },
+  "keywords": [
+    "lunbo"
+  ],
+  "author": "Tang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Happy-Everyday/mobile_banner/issues"
+  },
+  "homepage": "https://github.com/Happy-Everyday/mobile_banner#readme"
+}
